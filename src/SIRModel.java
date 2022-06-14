@@ -13,6 +13,7 @@ public class SIRModel
 
     // Question 3b.
 
+    //Develop 1
     // The number of people for the model.
     private static final int POPULATION = 150;
     // The number of initial infections.
